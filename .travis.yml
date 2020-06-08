@@ -4,4 +4,4 @@ php:
 install:
 - composer install
 script:
-- test.php
+- php test.php
