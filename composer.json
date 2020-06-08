@@ -1,0 +1,10 @@
+{
+    "name": "addiks/reproduce-script-for-symfony-issue-37150",
+    "config": {
+        "bin-dir": "bin"
+    },
+    "require": {
+        "php": ">=7.2",
+        "symfony/dependency-injection": "^3.4.41"
+    }
+}
